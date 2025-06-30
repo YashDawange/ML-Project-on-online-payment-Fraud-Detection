@@ -1,9 +1,11 @@
+## 📂 Dataset: https://www.kaggle.com/datasets/jainilcoder/online-payment-fraud-detection
+as dataset size is large and github is not allowing me to upload the dataset, so i am providing kaggle link
+
+
 # 💳 Online Payment Fraud Detection using Machine Learning
 
 This project aims to detect fraudulent online payment transactions using machine learning techniques. By analyzing transaction data, the model classifies whether a transaction is genuine or fraudulent, helping mitigate financial losses and enhance security.
 
-📂 Dataset: https://www.kaggle.com/datasets/jainilcoder/online-payment-fraud-detection
-as dataset size is large and github is not allowing me to upload the dataset, so i am providing kaggle link
 
 
 ## 📁 Project Files
